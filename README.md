@@ -31,3 +31,4 @@ A quick tour of these files:
 - **design** is a folder that contains the converted *XML files in Python code*.
 - **styles** is a folder that contains the style files (*CSS files*).
 - **windows** is a folder that contains *XML files* describing the application's interface.
+- **app.py** is the application launcher file. You can also write the application's functionality in it.
